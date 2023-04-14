@@ -37,9 +37,9 @@
     <orderEntry type="library" name="Maven: org.yaml:snakeyaml:1.33" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-aop:6.0.7" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-beans:6.0.7" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-config:6.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-config:5.6.10" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context:6.0.7" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-web:6.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-web:5.6.10" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-expression:6.0.7" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-web:3.0.5" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-json:3.0.5" level="project" />
@@ -91,8 +91,8 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-jcl:6.0.7" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework:spring-test:6.0.7" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.xmlunit:xmlunit-core:2.9.1" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.springframework.security:spring-security-test:6.0.2" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-core:6.0.2" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-crypto:6.0.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.springframework.security:spring-security-test:5.6.10" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-core:5.6.10" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-crypto:5.6.10" level="project" />
   </component>
 </module>
