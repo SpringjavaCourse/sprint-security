@@ -28,7 +28,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter{
 
         http.authorizeRequests()
                 .antMatchers("/").permitAll()// permite acceder sin permisos
-                .antMatchers("/").hasRole("ADMIN")
+                .antMatchers("/").hasRole("ADMIN") // ledamos accesso unicamente a ese roll asignado
                 .anyRequest().authenticated()
                 .and().formLogin()
                 .and().httpBasic();
